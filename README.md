@@ -6,7 +6,7 @@ It includes the Kiosk APK interface for tablets and the Admin & Client dashboard
 ## Figma Preview
 
 You can view the interactive design preview here:  
-[Figma Preview - SOFTIT App](https://crown-badger-00076260.figma.site/)
+![SOFTIT App Preview](/1feedback.png)
 
 This preview shows:  
 - Kiosk interface for tablet feedback input  
